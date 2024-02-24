@@ -13,6 +13,5 @@ Hello! I'm Frank
 *In the pursuit of progress, we solder the present to the future, echoing the craftsmanship of the past.*
 
 /s
----
 ![Fr4nkFletcher's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fr4nkFletcher&show_icons=true&theme=radical&show=prs_merged)
 
