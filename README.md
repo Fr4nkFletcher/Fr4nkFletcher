@@ -4,8 +4,8 @@
 
 Hello! I'm Frank
 
-- 🛠 **Making Things**: From circuits to software, if it can be built, I'm there.
-- 🔮 **Engineering Enthusiast**: Hardware/software/network.
+- 🛠 **Making Things**
+- 🔮 **Engineering Enthusiast**: Hardware/software/network
 - 🪄 **Infosec Researcher**
 - ✉️ **Twitter**: [@Fr4nkFletcher](https://twitter.com/Fr4nkFletcher)
 
