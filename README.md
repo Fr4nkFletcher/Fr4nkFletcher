@@ -1,6 +1,6 @@
 # 🐲 Fr4nkFletcher
 
-### Tinkerer | Engineering Enthusiast | SDR lover
+### Tinkerer | Engineering Enthusiast | SDR Lover
 
 Hello! I'm Frank
 
@@ -10,7 +10,7 @@ Hello! I'm Frank
 - 📮 **Connect with Me**: [Twitter @Fr4nkFletcher](https://twitter.com/Fr4nkFletcher)
 
 ---
-*In the pursuit of progress, we solder the present to the future, echoing the craftsmanship of the past.*
+*"In the pursuit of progress, we solder the present to the future, echoing the craftsmanship of the past."*
 
 /s
 
