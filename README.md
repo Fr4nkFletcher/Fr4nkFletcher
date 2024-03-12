@@ -1,6 +1,6 @@
 # 🐲 Fr4nkFletcher
 
-### Tinkerer | Engineering Enthusiast | SDR Lover
+### Tinkerer | Engineering Enthusiast | Microsoldering Madman
 
 Hello! I'm Frank
 
