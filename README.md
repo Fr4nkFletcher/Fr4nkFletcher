@@ -7,7 +7,8 @@ Hello! I'm Frank
 - 🛠 **Making Things**
 - 🔮 **Engineering Enthusiast**: Hardware/software/network
 - 🪄 **Infosec Researcher**
-- [![Twitter Follow](https://img.shields.io/twitter/follow/Fr4nkFletcher?style=social)](https://twitter.com/Fr4nkFletcher)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/Fr4nkFletcher?style=social)](https://twitter.com/Fr4nkFletcher)
 
 ---
 
