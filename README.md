@@ -10,5 +10,6 @@ Hello! I'm Frank
 
 <a href="https://twitter.com/intent/follow?screen_name=Fr4nkFletcher"><img src="https://img.shields.io/twitter/follow/Fr4nkFletcher?style=for-the-badge&logo=twitter" alt="Twitter"></a>
 
-![Fr4nkFletcher's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fr4nkFletcher&show_icons=true&theme=radical&show=prs_merged)
+// ![Fr4nkFletcher's GitHub  stats](https://github-readme-stats.vercel.app/api?username=Fr4nkFletcher&show_icons=true&theme=radical&show=prs_merged)
 
+<img align="left" alt="Fr4nkFletcher's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Fr4nkFletcher&show_icons=true&hide_border=true&theme=radical" />
