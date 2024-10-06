@@ -15,6 +15,8 @@ I tinker with stuff, love RE, and have an unhealthy obsession with soldering and
   </p>
 </details>
 
+Random [mentions](https://fr4nkfletcher.github.io/about/#mentions)
+
 Check my [blog](https://fr4nkfletcher.github.io/) for ways to reach out, or DM on twitter if you need me right away.
 
 [![twitter](https://img.shields.io/badge/follow-Fr4nkFletcher-blue?style=flat&logo=Twitter)](https://twitter.com/Fr4nkFletcher)
