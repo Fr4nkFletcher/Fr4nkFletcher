@@ -7,16 +7,18 @@ I tinker with stuff, love RE, and have an unhealthy obsession with soldering and
 - 🪄 I dig into infosec research when I'm not burning my fingers with a soldering iron.
 
 <details>
-  <summary>📈 GitHub Stats (if you like graphs)</summary>
-  <p align="left">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fr4nkFletcher&theme=transparent" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fr4nkFletcher&hide_border=true&card_width=338&theme=transparent" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fr4nkFletcher&theme=transparent" />
-  </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fr4nkFletcher&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fr4nkFletcher&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fr4nkFletcher&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+
+[![Fr4nkFletcher's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fr4nkFletcher&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </details>
 
 Random [mentions](https://fr4nkfletcher.github.io/about/#mentions)
-
 
 Check my [blog](https://fr4nkfletcher.github.io/) for ways to reach out, or DM on twitter if you need me right away.
 
