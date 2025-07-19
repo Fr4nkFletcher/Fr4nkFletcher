@@ -1,11 +1,3 @@
-# Hey, I'm Fr4nkFletcher 🐲
-
-I tinker with stuff, love RE, and have an unhealthy obsession with soldering and hacking all the things.
-
-- 🛠 I make things. Sometimes they even work.
-- 🔮 I'm into all sorts of engineering - hardware, software, network, you name it.
-- 🪄 I dig into infosec research when I'm not burning my fingers with a soldering iron.
-
 <details>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fr4nkFletcher&show_icons=true&theme=dark)
