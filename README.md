@@ -1,5 +1,4 @@
 Random [mentions](https://fr4nkfletcher.github.io/about/#mentions)
-
 <details>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fr4nkFletcher&show_icons=true&theme=dark)
